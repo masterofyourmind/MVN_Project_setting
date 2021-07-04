@@ -1,5 +1,5 @@
 # MVN_Project_setting
-*This is for setup in web.xml and pom.xml to make your mvn project UP and running with database* \n
+*This is for setup in web.xml and pom.xml to make your mvn project UP and running with database*  
 *Dependencies used are listed below, this are helpful to make your first maveen project which can send or receive data from database*
 
 * JUNIT
